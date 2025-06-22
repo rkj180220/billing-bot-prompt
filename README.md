@@ -12,6 +12,9 @@ Develop an enhanced AI customer support assistant specifically designed to handl
 - Missing security considerations
 - No structured approach to complex billing scenarios
 - Lacks clear guidelines for handling sensitive information
+- Vague Role Definition: "Helpful assistant" is too generic
+- No Escalation Paths: No guidance on when to transfer to human agents
+- Missing Context: No company information, policies, or procedures
 
 ## Task Requirements
 
