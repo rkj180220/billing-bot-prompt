@@ -120,5 +120,3 @@ IF query_complexity == high OR dispute_flag == true THEN use COT_Prompt ELSE use
 | Escalation Threshold Awareness | Rule-based                        | Logic-informed                     |
 
 ---
-
-Would you like me to simulate a live response to the same customer query using **both prompts side-by-side** so you can compare tone, logic, and structure directly?
